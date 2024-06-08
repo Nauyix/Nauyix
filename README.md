@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Nauyix
-- 👀 I’m interested in Programming
 - 📫 Reach me at stz2015@outlook.com
 
 <!---
